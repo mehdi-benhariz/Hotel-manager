@@ -1,0 +1,84 @@
+2022-02-05 15:50:28.342 +01:00 [INF] the server is running
+2022-02-05 15:50:28.787 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:50:28.791 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:50:28.791 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:50:28.791 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:50:28.791 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:52:32.757 +01:00 [INF] Application is shutting down...
+2022-02-05 15:52:35.638 +01:00 [INF] the server is running
+2022-02-05 15:52:36.194 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:52:36.199 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:52:36.199 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:52:36.200 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:52:36.200 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:52:49.375 +01:00 [INF] Application is shutting down...
+2022-02-05 15:53:16.021 +01:00 [INF] the server is running
+2022-02-05 15:53:16.588 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:53:16.595 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:53:16.595 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:53:16.595 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:53:16.595 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:53:17.871 +01:00 [INF] Application is shutting down...
+2022-02-05 15:53:20.140 +01:00 [INF] the server is running
+2022-02-05 15:53:20.661 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:53:20.668 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:53:20.668 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:53:20.668 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:53:20.668 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:53:46.974 +01:00 [INF] Application is shutting down...
+2022-02-05 15:53:49.802 +01:00 [INF] the server is running
+2022-02-05 15:53:50.272 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:53:50.276 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:53:50.277 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:53:50.277 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:53:50.277 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:54:15.462 +01:00 [INF] Application is shutting down...
+2022-02-05 15:54:22.355 +01:00 [INF] the server is running
+2022-02-05 15:54:22.813 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:54:22.817 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:54:22.817 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:54:22.817 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:54:22.817 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:54:31.197 +01:00 [INF] Application is shutting down...
+2022-02-05 15:54:38.029 +01:00 [INF] the server is running
+2022-02-05 15:54:38.726 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:54:38.732 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:54:38.732 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:54:38.732 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:54:38.732 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:54:47.644 +01:00 [INF] Application is shutting down...
+2022-02-05 15:54:50.360 +01:00 [INF] the server is running
+2022-02-05 15:54:51.086 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:54:51.090 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:54:51.090 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:54:51.091 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:54:51.091 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:55:12.152 +01:00 [INF] Application is shutting down...
+2022-02-05 15:55:20.390 +01:00 [INF] the server is running
+2022-02-05 15:55:21.101 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 15:55:21.104 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 15:55:21.105 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 15:55:21.105 +01:00 [INF] Hosting environment: Development
+2022-02-05 15:55:21.105 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 15:57:56.932 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - -
+2022-02-05 15:57:57.071 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 142.0015ms
+2022-02-05 15:57:57.135 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - -
+2022-02-05 15:57:57.140 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+2022-02-05 15:57:57.141 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - -
+2022-02-05 15:57:57.140 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+2022-02-05 15:57:57.147 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 3073 application/javascript;+charset=utf-8 5.8640ms
+2022-02-05 15:57:57.184 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 48.2831ms
+2022-02-05 15:57:57.191 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 50.7242ms
+2022-02-05 15:57:57.207 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 66.3315ms
+2022-02-05 15:57:57.549 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - -
+2022-02-05 15:57:57.578 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png - -
+2022-02-05 15:57:57.578 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 0.4857ms
+2022-02-05 15:57:57.675 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 126.0295ms
+2022-02-05 16:00:08.731 +01:00 [INF] Application is shutting down...
+2022-02-05 16:00:11.144 +01:00 [INF] the server is running
+2022-02-05 16:00:11.568 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-05 16:00:11.577 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-05 16:00:11.578 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-05 16:00:11.578 +01:00 [INF] Hosting environment: Development
+2022-02-05 16:00:11.579 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-05 16:00:29.154 +01:00 [INF] Application is shutting down...

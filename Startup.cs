@@ -35,7 +35,7 @@ namespace MyAPIProject
                     });
             services.AddDbContext<DataBaseContext>(
                 (options =>
-                  options.UseSqlServer(Configuration.GetConnectionString("sqlConnection")))
+                  options.UseSqlite(Configuration.GetConnectionString("sqlConnection")))
                 );
 
             services.AddControllers();

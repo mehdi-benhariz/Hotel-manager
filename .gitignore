@@ -1,0 +1,6 @@
+.vscode
+.dist
+logs/
+todo.txt
+HotelDb.sqlite
+Migrations

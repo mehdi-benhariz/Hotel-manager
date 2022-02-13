@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using MyAPIProject.data;
+using MyAPIProject.Repository;
 using Serilog;
 
 namespace MyAPIProject
@@ -37,7 +38,7 @@ namespace MyAPIProject
                 (options =>
                   options.UseSqlite(Configuration.GetConnectionString("sqlConnection")))
                 );
-
+            // services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

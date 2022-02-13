@@ -82,3 +82,17 @@
 2022-02-05 16:00:11.578 +01:00 [INF] Hosting environment: Development
 2022-02-05 16:00:11.579 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
 2022-02-05 16:00:29.154 +01:00 [INF] Application is shutting down...
+2022-02-12 00:12:09.408 +01:00 [INF] the server is running
+2022-02-12 00:12:10.013 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-12 00:12:10.016 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-12 00:12:10.017 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-12 00:12:10.017 +01:00 [INF] Hosting environment: Development
+2022-02-12 00:12:10.017 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-12 00:12:34.283 +01:00 [INF] Application is shutting down...
+2022-02-12 00:12:41.326 +01:00 [INF] the server is running
+2022-02-12 00:12:42.199 +01:00 [INF] Now listening on: https://localhost:5001
+2022-02-12 00:12:42.202 +01:00 [INF] Now listening on: http://localhost:5000
+2022-02-12 00:12:42.209 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-12 00:12:42.209 +01:00 [INF] Hosting environment: Development
+2022-02-12 00:12:42.209 +01:00 [INF] Content root path: /home/mehdi/Documents/projects/MyAPIProject
+2022-02-12 00:15:52.537 +01:00 [INF] Application is shutting down...

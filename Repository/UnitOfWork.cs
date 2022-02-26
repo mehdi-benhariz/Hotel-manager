@@ -3,28 +3,25 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MyAPIProject.data;
-
+using MyAPIProject.IRepository;
 
 namespace MyAPIProject.Repository
 {
 
-    public class UnitOfWork<T> : IUnitOfWork<T> where T : class
+    public class UnitOfWork : IUnitOfWork
     {
-        private readonly DbContext _dbContext;
-        private GenericRepository<Country> _countryRepository;
-        private GenericRepository<Hotel> _hotelRepository;
-        public GenericRepository<Country> CountryRepository =>
-          _countryRepository ??= new GenericRepository<Country>((DataBaseContext)_dbContext);
-        public GenericRepository<Hotel> HotelRepository =>
-            _hotelRepository ??= new GenericRepository<Hotel>((DataBaseContext)_dbContext);
+        private readonly DataBaseContext _dbContext;
+        private IGenericRepository<Country> _countries;
+        private IGenericRepository<Hotel> _hotels;
+        public IGenericRepository<Country> Countries =>
+          _countries ??= new GenericRepository<Country>(_dbContext);
+        public IGenericRepository<Hotel> Hotels =>
+            _hotels ??= new GenericRepository<Hotel>(_dbContext);
 
-        public GenericRepository<T> Repository => throw new NotImplementedException();
 
-        public UnitOfWork(DbContext dbContext)
+        public UnitOfWork(DataBaseContext dbContext)
         {
             _dbContext = dbContext;
-            _countryRepository = new GenericRepository<Country>((DataBaseContext)_dbContext);
-            _hotelRepository = new GenericRepository<Hotel>((DataBaseContext)_dbContext);
 
         }
         public void Commit()
@@ -41,22 +38,5 @@ namespace MyAPIProject.Repository
         {
             throw new NotImplementedException();
         }
-        // public void RejectChanges()
-        // {
-        //     foreach (var entry in _dbContext.ChangeTracker.Entries()
-        //           .Where(e => e.State != EntityState.Unchanged))
-        //     {
-        //         switch (entry.State)
-        //         {
-        //             case EntityState.Added:
-        //                 entry.State = EntityState.Detached;
-        //                 break;
-        //             case EntityState.Modified:
-        //             case EntityState.Deleted:
-        //                 entry.Reload();
-        //                 break;
-        //         }
-        //     }
-        // }
     }
 }

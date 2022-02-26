@@ -4,13 +4,15 @@
 // Compare this snippet from Repository/GenericRepository.cs:
 using System;
 using System.Threading.Tasks;
+using MyAPIProject.data;
 using MyAPIProject.IRepository;
 
 namespace MyAPIProject.Repository
 {
-    public interface IUnitOfWork<T> : IDisposable where T : class
+    public interface IUnitOfWork : IDisposable
     {
-        GenericRepository<T> Repository { get; }
+        IGenericRepository<Country> Countries { get; }
+        IGenericRepository<Hotel> Hotels { get; }
         Task<bool> SaveAll();
     }
 
